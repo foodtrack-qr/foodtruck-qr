@@ -1,0 +1,142 @@
+{
+  "nav": {
+    "home": "Strona główna",
+    "pricing": "Cennik",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "headline": "Zamówienia QR dla Twojego Food Trucka",
+    "subtitle": "Pozwól klientom skanować, zamawiać i płacić — wszystko z telefonu. Bez pobierania aplikacji. Zwiększ sprzedaż i skróć czas oczekiwania z FoodTruck QR.",
+    "cta_primary": "Rozpocznij",
+    "cta_secondary": "Dowiedz się więcej"
+  },
+  "features": {
+    "title": "Wszystko, Czego Potrzebujesz",
+    "subtitle": "Potężne funkcje dla właścicieli food trucków i bezproblemowe doświadczenie dla klientów.",
+    "for_owners": "Dla Właścicieli",
+    "for_customers": "Dla Klientów",
+    "qr_menu": {
+      "title": "Menu z Kodem QR",
+      "description": "Generuj unikalne kody QR dla swojego trucka. Klienci skanują i od razu widzą pełne menu."
+    },
+    "mobile_orders": {
+      "title": "Zamówienia Mobilne",
+      "description": "Otrzymuj zamówienia bezpośrednio na swoje urządzenie. Koniec z błędnym słyszeniem zamówień w hałasie."
+    },
+    "payments": {
+      "title": "Łatwe Płatności",
+      "description": "Przyjmuj płatności kartą bezproblemowo. Bez obsługi gotówki, bez terminali."
+    },
+    "find_trucks": {
+      "title": "Znajdź Pobliskie Trucki",
+      "description": "Klienci mogą odkrywać food trucki w pobliżu i przeglądać menu przed wizytą."
+    },
+    "quick_order": {
+      "title": "Szybkie Zamawianie",
+      "description": "Zamów w kilka sekund — skanuj, wybierz dania i zapłać. Omiń kolejkę."
+    },
+    "order_tracking": {
+      "title": "Śledzenie Zamówienia",
+      "description": "Powiadomienia w czasie rzeczywistym, gdy jedzenie jest przygotowywane i gotowe do odbioru."
+    }
+  },
+  "howItWorks": {
+    "title": "Jak To Działa",
+    "subtitle": "Zacznij w czterech prostych krokach.",
+    "step1": {
+      "title": "Skonfiguruj Menu",
+      "description": "Stwórz cyfrowe menu ze zdjęciami, opisami i cenami w kilka minut."
+    },
+    "step2": {
+      "title": "Klient Skanuje QR",
+      "description": "Wyświetl swój unikalny kod QR. Klienci skanują go aparatem telefonu."
+    },
+    "step3": {
+      "title": "Zamów i Zapłać",
+      "description": "Klienci przeglądają menu, składają zamówienie i płacą — wszystko w przeglądarce."
+    },
+    "step4": {
+      "title": "Jedzenie Gotowe!",
+      "description": "Otrzymujesz zamówienie natychmiast. Powiadom klienta, gdy jest gotowe do odbioru."
+    }
+  },
+  "benefits": {
+    "title": "Dlaczego FoodTruck QR?",
+    "subtitle": "Korzyści, które naprawdę robią różnicę dla Twojego biznesu i Twoich klientów.",
+    "owners_title": "Dla Właścicieli Trucków",
+    "customers_title": "Dla Klientów",
+    "owner1": "Zwiększ średnią wartość zamówienia o 20%",
+    "owner2": "Wyeliminuj błędy w zamówieniach i nieporozumienia",
+    "owner3": "Skróć czas oczekiwania i obsłuż więcej klientów",
+    "owner4": "Analityka sprzedaży i statystyki w czasie rzeczywistym",
+    "customer1": "Bez pobierania aplikacji — działa w każdej przeglądarce",
+    "customer2": "Omiń kolejkę i zamów z dowolnego miejsca w pobliżu",
+    "customer3": "Bezpieczne, bezgotówkowe płatności",
+    "customer4": "Otrzymaj powiadomienie, gdy jedzenie jest gotowe"
+  },
+  "video": {
+    "title": "Zobacz w Akcji",
+    "placeholder": "Film wkrótce"
+  },
+  "cta": {
+    "title": "Gotowy na Transformację Swojego Food Trucka?",
+    "subtitle": "Dołącz do setek właścicieli food trucków, którzy już zwiększają sprzedaż dzięki zamawianiu przez QR.",
+    "button": "Zacznij Za Darmo"
+  },
+  "pricing": {
+    "title": "Prosty, Przejrzysty Cennik",
+    "subtitle": "Zacznij za darmo, ulepsz gdy będziesz gotowy.",
+    "free": {
+      "name": "Darmowy",
+      "description": "Idealny na początek",
+      "price": "0 zł",
+      "period": "/miesiąc",
+      "features": [
+        "1 food truck",
+        "Podstawowe menu QR",
+        "Do 50 zamówień/miesiąc",
+        "Wsparcie email"
+      ],
+      "cta": "Zacznij Za Darmo"
+    },
+    "pro": {
+      "name": "Pro",
+      "description": "Dla poważnych biznesów food truck",
+      "price": "119 zł",
+      "period": "/miesiąc",
+      "badge": "Popularny",
+      "features": [
+        "Nieograniczona liczba food trucków",
+        "Spersonalizowane kody QR",
+        "Nieograniczone zamówienia",
+        "Priorytetowe wsparcie",
+        "Panel analityczny",
+        "Powiadomienia dla klientów",
+        "Harmonogram menu"
+      ],
+      "cta": "Skontaktuj się"
+    }
+  },
+  "contact": {
+    "title": "Skontaktuj się",
+    "subtitle": "Chętnie od Ciebie usłyszymy. Niezależnie czy jesteś właścicielem food trucka gotowym na start, czy po prostu chcesz dowiedzieć się więcej o FoodTruck QR — napisz do nas, a odpowiemy.",
+    "launch_title": "Start 1 kwietnia 2026",
+    "launch_description": "Kończymy prace nad FoodTruck QR i przygotowujemy się do oficjalnego uruchomienia. Zapisz się, aby być jednym z pierwszych właścicieli food trucków, którzy przetestują platformę.",
+    "early_access": "Zostań naszym pierwszym klientem",
+    "early_access_description": "Zapisz się teraz i uzyskaj darmowy wczesny dostęp — po uruchomieniu usługa będzie płatna. Pomóż nam rozwijać FoodTruck QR i wspólnie budować lepszą społeczność od samego początku.",
+    "email_label": "Napisz do nas",
+    "email": "foodtruckqr@gmail.com"
+  },
+  "footer": {
+    "copyright": "© 2026 FoodTruck QR. Wszelkie prawa zastrzeżone.",
+    "tagline": "Zamawianie przez QR dla food trucków"
+  },
+  "meta": {
+    "home_title": "FoodTruck QR — Zamówienia QR dla Food Trucków",
+    "home_description": "Pozwól klientom skanować, zamawiać i płacić w Twoim food trucku. Bez aplikacji.",
+    "pricing_title": "Cennik — FoodTruck QR",
+    "pricing_description": "Prosty, przejrzysty cennik zamawiania QR dla food trucków.",
+    "contact_title": "Kontakt — FoodTruck QR",
+    "contact_description": "Skontaktuj się z zespołem FoodTruck QR. Start 1 kwietnia 2026."
+  }
+}
