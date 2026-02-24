@@ -19,7 +19,7 @@ export function Hero() {
             </p>
             <div className="flex flex-col gap-4 sm:flex-row">
               <Button size="lg" className="h-14 px-8 text-base rounded-full shadow-lg shadow-primary/25 hover:shadow-xl hover:shadow-primary/30 transition-all" asChild>
-                <a href="https://admin-restaurant-wheat.vercel.app/">
+                <a href="">
                   {t("cta_primary")}
                 </a>
               </Button>

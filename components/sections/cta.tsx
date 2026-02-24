@@ -22,7 +22,7 @@ export function CTA() {
               className="mt-10 h-14 px-8 text-base rounded-full font-bold shadow-lg transition-all"
               asChild
             >
-              <a href="https://admin-restaurant-wheat.vercel.app/">
+              <a href="">
                 {t("button")}
                 <ArrowRight className="ml-2 h-5 w-5" />
               </a>
